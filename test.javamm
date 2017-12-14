@@ -1,0 +1,9 @@
+function main(){
+var i = 1
+   do{
+   i+=3
+   }
+   while(i<5)
+   out i
+   
+}
